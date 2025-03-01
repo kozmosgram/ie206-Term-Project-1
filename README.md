@@ -1,12 +1,13 @@
 IMPORTANT POINTS
+
 + TermProject1.pdf explains how the simulation will work and the cases.
 
 + Project1_ID2643740.pdf obtain the data from the simulation run were evaluated.
 
-+Cases were examined separately for each case and their codes are different from each other. 
++ Cases were examined separately for each case and their codes are different from each other. 
 Therefore, when running the codes, make sure that all files belonging to the relevant Case are in the same folder.
 
-+Test.m files exist to obtain more consistent results by running the simulation 200 times. If you want to run the simulation once, you can run the main.m file.
++ Test.m files exist to obtain more consistent results by running the simulation 200 times. If you want to run the simulation once, you can run the main.m file.
 
 GOAL of The Project
 
